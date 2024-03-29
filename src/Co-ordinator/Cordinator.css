@@ -1,0 +1,21 @@
+
+.CoApp{
+    font-family: 'Inter',sans-serif;
+    background: linear-gradient(106.37deg,#ffe1bc 29.63%,#cff5ff 51.55%,#c2f7b4 90.85%);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .CoGlass{
+    display: grid;
+    grid-template-columns: 12rem auto 25rem;
+    height: 97%;
+    width: 97%;
+    border-radius: 2rem;
+    background-color: var(--glass);
+    overflow: hidden;
+    color: black;
+  
+  
+  }
